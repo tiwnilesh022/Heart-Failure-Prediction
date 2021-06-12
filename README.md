@@ -39,6 +39,6 @@ DEATH EVENT<br>(TARGET)|	If the patient died during the follow-up period|	Boolea
  
  ### References
  
-Machine learning can predict survival of patients with heart failure from serum creatinine and 
+Machine learning can predict survival of patients with heart failure from serum creatinine and
 ejection fraction alone. (03 February 2020) https://doi.org/10.1186/s12911-020-1023-5
  
